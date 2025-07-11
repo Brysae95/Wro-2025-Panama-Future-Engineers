@@ -3,7 +3,6 @@ Engineering documentation
 
 This repository contains engineering documentation of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2025.
 
-Okay, I will now provide the entire document in English, incorporating the **Large Angular Motor 45602** and **Small Angular Motor 45607** as specified, and drawing upon the visual information of a typical Lego robot setup without mentioning the images were provided by you.
 
 -----
 
